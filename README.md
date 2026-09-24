@@ -37,16 +37,6 @@ I'm a passionate software engineer with expertise in AI/ML, Full-Stack developme
 - **AWS/Cloud** - Cloud Services
 - **PostgreSQL** - Database
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivammarwar&show_icons=true&theme=dark)
-
-## 🏆 Achievements
-
-- 🌟 **1,348+ contributions** in the last year
-- 📁 **31+ public repositories** on GitHub
-- 🎯 **Diverse project portfolio** spanning multiple domains
-
 ## 🔗 Connect With Me
 
 - **LinkedIn** - [in/shivam-kumar-singh-22964b294](https://www.linkedin.com/in/shivam-kumar-singh-22964b294)
