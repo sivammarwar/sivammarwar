@@ -44,4 +44,4 @@ Software engineer focused on AI/ML, full-stack development, and system design. I
 
 ---
 
-Made with ❤️ and 🐍 by [sivammarwar](https://github.com/sivammarwar)
+Made with ❤️ and 🐍 by Shivam Kumar Singh
