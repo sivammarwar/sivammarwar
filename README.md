@@ -10,7 +10,7 @@ Software Engineer | AI/ML | Full-Stack | System Design
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with expertise in AI/ML, Full-Stack development, and System Design. I love building innovative solutions and exploring cutting-edge technologies.
+Software engineer focused on AI/ML, full-stack development, and system design. I enjoy building practical products, solving challenging problems, and exploring new technologies.
 
 - 🎓 **IIT Dharwad** - Electrical Engineering (Expected Graduation July 2027)
 - 💼 **Software Engineer** - Specializing in AI/ML and Full-Stack Development
