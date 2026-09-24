@@ -2,11 +2,15 @@
 
 Software Engineer | AI/ML | Full-Stack | System Design
 
-## 🐍 GitHub Snake
+## 🐍 GitHub Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sivammarwar/snake-game/main/github-snake.svg" alt="GitHub Snake Animation" width="700" />
+  <a href="https://sivammarwar.github.io/snake-game/contribution-graph.html">
+    <img src="https://raw.githubusercontent.com/sivammarwar/snake-game/main/github-snake.svg" alt="GitHub Snake Animation" width="700" />
+  </a>
 </div>
+
+**🎮 Click the image above to see the animated snake on my contribution graph!**
 
 ## 🚀 About Me
 
