@@ -1,16 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivammarwar/sivammarwar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivammarwar/sivammarwar/output/github-snake.svg" />
+  <img alt="Snake animation on my contribution graph" src="https://raw.githubusercontent.com/sivammarwar/sivammarwar/output/github-snake.svg" />
+</picture>
+
 # 👋 Hi, I'm Shivam Kumar Singh
 
 Software Engineer | AI/ML | Full-Stack | System Design
-
-## 🐍 GitHub Snake Animation
-
-<div align="center">
-  <a href="https://sivammarwar.github.io/snake-game/contribution-graph.html">
-    <img src="https://raw.githubusercontent.com/sivammarwar/snake-game/main/github-snake.svg" alt="GitHub Snake Animation" width="700" />
-  </a>
-</div>
-
-**🎮 Click the image above to see the animated snake on my contribution graph!**
 
 ## 🚀 About Me
 
